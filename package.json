@@ -1,0 +1,23 @@
+{
+  "name": "dialogflowbot",
+  "version": "1.0.0",
+  "description": "Dialogflow Node client",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranay-thl/dialogflowbot.git"
+  },
+  "author": "pranay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranay-thl/dialogflowbot/issues"
+  },
+  "homepage": "https://github.com/pranay-thl/dialogflowbot#readme",
+  "dependencies": {
+    "dialogflow": "^1.2.0",
+    "uuid": "^8.2.0"
+  }
+}
